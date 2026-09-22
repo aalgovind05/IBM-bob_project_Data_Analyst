@@ -1,0 +1,10 @@
+# Ignore everything by default. Only the explicitly allowed project files below
+# will be visible to Git.
+*
+
+# Keep this rule file in the repository so the allowlist is applied on GitHub.
+!.gitignore
+!Amazon_Sales_Project_Report.docx
+!README.md
+!requirements.txt
+!train_model.py
